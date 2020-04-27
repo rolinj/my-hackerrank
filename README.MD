@@ -1,1 +1,1 @@
-### My solutions to HackerRank's coding exercises
+### My solutions to HackerRank's coding exercises.
